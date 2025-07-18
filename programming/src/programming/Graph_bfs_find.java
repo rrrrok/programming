@@ -18,7 +18,6 @@ public class Graph_bfs_find {
 		
 		int N = Integer.parseInt(str.nextToken());
 		int K = Integer.parseInt(str.nextToken());
-		int count=0;
 		
 		boolean visited[] = new boolean[100001];
 		int result[] = new int[100001];
